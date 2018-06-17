@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "94261286656",
+    "firebase_url": "https://smartpark-7a0e8.firebaseio.com",
+    "project_id": "smartpark-7a0e8",
+    "storage_bucket": "smartpark-7a0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94261286656:android:ef24384622cc87ca",
+        "android_client_info": {
+          "package_name": "com.example.kanoidsan.sensortests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94261286656-kjmfreaj67a8scnc12lj2aoinu0o7svc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanoidsan.sensortests",
+            "certificate_hash": "18922ec2c4fe708afc1278b0aa0a8e88faf1f0e7"
+          }
+        },
+        {
+          "client_id": "94261286656-mt2ih52kt45jvbr7pgg94pukjavh3am3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "94261286656-mt2ih52kt45jvbr7pgg94pukjavh3am3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8ng-OTdIjQzQJ9URz7X_cADE9Rx-fis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94261286656-mt2ih52kt45jvbr7pgg94pukjavh3am3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94261286656:android:debb313f25625366",
+        "android_client_info": {
+          "package_name": "io.github.michalsmolarek.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94261286656-vc2vudsu8q6hha06ld15jdf8obajn08i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.michalsmolarek.smartpark",
+            "certificate_hash": "4392ace073b6f163e0b6d458114c9825a829dbbd"
+          }
+        },
+        {
+          "client_id": "94261286656-mt2ih52kt45jvbr7pgg94pukjavh3am3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "94261286656-mt2ih52kt45jvbr7pgg94pukjavh3am3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8ng-OTdIjQzQJ9URz7X_cADE9Rx-fis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94261286656-mt2ih52kt45jvbr7pgg94pukjavh3am3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
